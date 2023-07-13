@@ -23,7 +23,7 @@
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on ** React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **React, React Native, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **How to make cool website with Good Design**
 
@@ -37,7 +37,6 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Shiladitya070&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiladitya070&theme=dark&hide_border=false" /> 
 </td>
