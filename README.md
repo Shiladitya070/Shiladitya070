@@ -34,7 +34,7 @@
 <p align="center">
   <!--- stats (start) -->
  <div align="center">
-  <div style="display: flex;">
+  <div style="display: flex; flex-direction: column;">
 
     
   <img align="center" style="margin: 10"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiladitya070&theme=dark&hide_border=false" /> 
