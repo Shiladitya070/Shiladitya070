@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **How to make cool website with Good Design**
 
-- 📫 Feel free to reach me out **shiladityad940@gmail.com**
+- 📫 Feel free to reach me out **developershiladitya@gmail.com**
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
@@ -62,7 +62,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,express,figma,firebase,github,html,idea,java,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,express,figma,firebase,github,html,java,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
